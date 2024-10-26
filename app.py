@@ -5,7 +5,7 @@ from shiny.express import ui, input, render
 ui.page_opts(title="Dinesh Gurumoorthy's Shiny Interative App", fillable=True)
 
 with ui.sidebar():
-    ui.input_slider("selected_number_of_bins", "Number of Bins", 0, 150, 25)
+    ui.input_slider("selected_number_of_bins", "Number of Bins", 0, 160, 20)
 
 
 @render.plot(alt="A histogram")
