@@ -1,3 +1,3 @@
 # cintel-01-interactive
 
-1St week assignment on Pyshiny
+1st week assignment on Pyshiny
